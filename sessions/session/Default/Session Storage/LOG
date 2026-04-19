@@ -1,2 +1,3 @@
-2026/04/19-11:58:08.470 654e Creating DB /Users/snehalmastud/Documents/Snehal/Projects/whatsapp-autoreply/sessions/session/Default/Session Storage since it was missing.
-2026/04/19-11:58:08.473 654e Reusing MANIFEST /Users/snehalmastud/Documents/Snehal/Projects/whatsapp-autoreply/sessions/session/Default/Session Storage/MANIFEST-000001
+2026/04/19-12:10:03.267 a298 Reusing MANIFEST /Users/snehalmastud/Documents/Snehal/Projects/whatsapp-autoreply/sessions/session/Default/Session Storage/MANIFEST-000001
+2026/04/19-12:10:03.267 a298 Recovering log #3
+2026/04/19-12:10:03.267 a298 Reusing old log /Users/snehalmastud/Documents/Snehal/Projects/whatsapp-autoreply/sessions/session/Default/Session Storage/000003.log 
