@@ -26,6 +26,8 @@ module.exports = {
                 "food":             "Yes Mom, I've eaten! 😄 Talk soon.",
                 "okay":             "Okay Mom! Love you ❤️",
                 "ok":               "Okay Mom! Love you ❤️",
+                "Jevli ka":         "Ho Mumma, Jevli mi kam karat ahe! 😄 Nantar bolte.",
+                "Have you eaten":     "Yes Mom, I've eaten! 😄 Talk soon.",
             }
         },
         {
@@ -37,6 +39,8 @@ module.exports = {
                 "call me":          "I'll call you shortly Dad!",
                 "okay":             "Okay Dad! 👍",
                 "ok":               "Okay Dad! 👍",
+                "Jevli ka":         "Ho Pappu, Jevli mi kam karat ahe! 😄 Nantar bolte.",
+                "Have you eaten":     "Yes Dad, I've eaten! 😄 Talk soon.",
             }
         },
 
