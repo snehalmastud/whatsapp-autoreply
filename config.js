@@ -41,6 +41,7 @@ module.exports = {
                 "ok":               "Okay Dad! 👍",
                 "Jevli ka":         "Ho Pappu, Jevli mi kam karat ahe! 😄 Nantar bolte.",
                 "Have you eaten":     "Yes Dad, I've eaten! 😄 Talk soon.",
+                "जेवली का ":         "हो पप्पू, जेवली मी काम करत आहे! तुम्ही जेवला का ? 😄 नंतर बोलते.",
             }
         },
 

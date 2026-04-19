@@ -1,18 +1,18 @@
-2026/04/19-12:10:03.314 a22e Reusing MANIFEST /Users/snehalmastud/Documents/Snehal/Projects/whatsapp-autoreply/sessions/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2026/04/19-12:10:03.314 a22e Recovering log #58
-2026/04/19-12:10:03.336 a22e Reusing old log /Users/snehalmastud/Documents/Snehal/Projects/whatsapp-autoreply/sessions/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000058.log 
-2026/04/19-12:10:06.446 a232 Level-0 table #66: started
-2026/04/19-12:10:06.456 a232 Level-0 table #66: 1177973 bytes OK
-2026/04/19-12:10:06.457 a232 Delete type=0 #58
-2026/04/19-12:10:06.458 a22e Compacting 1@1 + 4@2 files
-2026/04/19-12:10:06.476 a22e Generated table #67@1: 38843 keys, 2198245 bytes
-2026/04/19-12:10:06.482 a22e Generated table #68@1: 1508 keys, 2134801 bytes
-2026/04/19-12:10:06.499 a22e Generated table #69@1: 38717 keys, 2218187 bytes
-2026/04/19-12:10:06.509 a22e Generated table #70@1: 45767 keys, 1123915 bytes
-2026/04/19-12:10:06.509 a22e Compacted 1@1 + 4@2 files => 7675148 bytes
-2026/04/19-12:10:06.510 a22e compacted to: files[ 0 0 4 0 0 0 0 ]
-2026/04/19-12:10:06.510 a22e Delete type=2 #62
-2026/04/19-12:10:06.510 a22e Delete type=2 #63
-2026/04/19-12:10:06.510 a22e Delete type=2 #61
-2026/04/19-12:10:06.510 a22e Delete type=2 #60
-2026/04/19-12:10:06.510 a22e Delete type=2 #66
+2026/04/19-12:25:12.009 fb0e Reusing MANIFEST /Users/snehalmastud/Documents/Snehal/Projects/whatsapp-autoreply/sessions/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/19-12:25:12.010 fb0e Recovering log #65
+2026/04/19-12:25:12.033 fb0e Reusing old log /Users/snehalmastud/Documents/Snehal/Projects/whatsapp-autoreply/sessions/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000065.log 
+2026/04/19-12:25:15.310 fb12 Level-0 table #73: started
+2026/04/19-12:25:15.324 fb12 Level-0 table #73: 1241387 bytes OK
+2026/04/19-12:25:15.327 fb12 Delete type=0 #65
+2026/04/19-12:25:15.382 fb0e Compacting 1@1 + 4@2 files
+2026/04/19-12:25:15.404 fb0e Generated table #74@1: 45475 keys, 2208289 bytes
+2026/04/19-12:25:15.410 fb0e Generated table #75@1: 1520 keys, 2134872 bytes
+2026/04/19-12:25:15.428 fb0e Generated table #76@1: 29478 keys, 2208658 bytes
+2026/04/19-12:25:15.441 fb0e Generated table #77@1: 55332 keys, 1341535 bytes
+2026/04/19-12:25:15.441 fb0e Compacted 1@1 + 4@2 files => 7893354 bytes
+2026/04/19-12:25:15.442 fb0e compacted to: files[ 0 0 4 0 0 0 0 ]
+2026/04/19-12:25:15.442 fb0e Delete type=2 #70
+2026/04/19-12:25:15.442 fb0e Delete type=2 #73
+2026/04/19-12:25:15.442 fb0e Delete type=2 #67
+2026/04/19-12:25:15.442 fb0e Delete type=2 #68
+2026/04/19-12:25:15.442 fb0e Delete type=2 #69

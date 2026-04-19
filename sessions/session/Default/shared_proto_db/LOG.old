@@ -1,2 +1,3 @@
-2026/04/19-11:58:08.466 64d0 Creating DB /Users/snehalmastud/Documents/Snehal/Projects/whatsapp-autoreply/sessions/session/Default/shared_proto_db since it was missing.
-2026/04/19-11:58:08.467 64d0 Reusing MANIFEST /Users/snehalmastud/Documents/Snehal/Projects/whatsapp-autoreply/sessions/session/Default/shared_proto_db/MANIFEST-000001
+2026/04/19-12:24:35.705 f6ed Reusing MANIFEST /Users/snehalmastud/Documents/Snehal/Projects/whatsapp-autoreply/sessions/session/Default/shared_proto_db/MANIFEST-000001
+2026/04/19-12:24:35.705 f6ed Recovering log #3
+2026/04/19-12:24:35.705 f6ed Reusing old log /Users/snehalmastud/Documents/Snehal/Projects/whatsapp-autoreply/sessions/session/Default/shared_proto_db/000003.log 
